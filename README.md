@@ -22,4 +22,9 @@ An intelligent fitness workout program selection system tailored to the user's g
 3. Go to the admin panel to monitor logs: http://127.0.0.1:8000/admin/
 
 ## Screenshots
-![Bot Interface](screenshots01/Снимок экрана 2026-05-20 030458.png)
+![Bot Interface](screenshots01/bot_01.png)
+![Bot Interface](screenshots01/bot_02.png)
+![Bot Interface](screenshots01/bot_03.png)
+![Bot Interface](screenshots01/bot_04.png)
+![Bot Interface](screenshots01/bot_05.png)
+![Bot Interface](screenshots01/bot_06.png)
